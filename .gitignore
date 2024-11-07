@@ -1,0 +1,8 @@
+/bot-env
+/build
+/client_secret.json
+/credentials.pickle
+/dist
+*.har
+/replied_to_QiT6pvSK6Qc.pickle
+**/__pycache__/
